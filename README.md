@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Jorge Nolasco
+#  Olá, eu sou Jorge Nolasco
 
 **Cybersecurity Student | Web Developer | Backend Development**
 
@@ -43,7 +43,7 @@ Atualmente estudando e praticando:
 - Supabase
 - SQL
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -84,9 +84,9 @@ Atualmente estudando e praticando:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
-### 🛒 Dessik
+###  Dessik
 
 E-commerce desenvolvido com HTML, CSS e JavaScript e integrado a uma API para autenticação, produtos, estoque, usuários e pedidos.
 
@@ -94,7 +94,7 @@ O projeto trabalha com conceitos como **REST API, JWT, controle de acesso, integ
 
 [Ver projeto](https://github.com/JorgeNoolasco/Dessik)
 
-### 🧠 BlueMath
+###  BlueMath
 
 Plataforma web educacional para aprendizagem de matemática, desenvolvida com HTML, CSS e JavaScript.
 
@@ -102,7 +102,7 @@ Possui quiz de personalização, dashboard, biblioteca de conteúdos e integraç
 
 [Ver projeto](https://github.com/JorgeNoolasco/BlueMath)
 
-### 🛡️ NullSector CTF Landing Page
+###  NullSector CTF Landing Page
 
 Landing page responsiva com temática de Cybersecurity e CTF, criada como projeto de desenvolvimento Client-Side.
 
@@ -110,7 +110,7 @@ O projeto é focado em **HTML semântico, CSS, responsividade e construção de 
 
 [Ver projeto](https://github.com/JorgeNoolasco/LandingPage)
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 ```text
 Cybersecurity
@@ -128,7 +128,7 @@ Development
 └── Backend Development
 ```
 
-## 📊 GitHub
+##  GitHub
 
 <details>
 <summary>Ver estatísticas</summary>
@@ -143,6 +143,6 @@ Development
 
 ---
 
-### 🔐 Development + Security
+###  Development + Security
 
 Estou construindo meu portfólio enquanto evoluo em **Desenvolvimento Web, Backend e Cybersecurity**, documentando projetos e aprendizados ao longo do processo.
