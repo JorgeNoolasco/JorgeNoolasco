@@ -8,7 +8,7 @@ Atualmente estou aprofundando meus estudos em **Cybersecurity**, com foco em Lin
 
 Meu objetivo é unir desenvolvimento e segurança para construir aplicações cada vez mais organizadas, funcionais e seguras.
 
-## 🛡️ Cybersecurity Studies
+##  Cybersecurity Studies
 
 Atualmente estudando e praticando:
 
@@ -24,7 +24,7 @@ Atualmente estudando e praticando:
 
 > Todas as práticas de segurança são realizadas em ambientes próprios, laboratórios, CTFs ou plataformas autorizadas.
 
-## 💻 Desenvolvimento Web
+##  Desenvolvimento Web
 
 ### Frontend
 - HTML5
