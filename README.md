@@ -130,7 +130,6 @@ Development
 
 ##  GitHub
 
-<details>
 <summary>Ver estatísticas</summary>
 
 <br>
@@ -139,7 +138,6 @@ Development
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeNoolasco&layout=compact&hide_border=true&theme=github_dark)
 
-</details>
 
 ---
 
