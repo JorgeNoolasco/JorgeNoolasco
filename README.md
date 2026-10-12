@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
 #  Olá, eu sou Jorge Nolasco
 
 **Cybersecurity Student | Web Developer | Backend Development**
@@ -158,3 +160,5 @@ Development
 ###  Development + Security
 
 Estou construindo meu portfólio enquanto evoluo em **Desenvolvimento Web, Backend e Cybersecurity**, documentando projetos e aprendizados ao longo do processo.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
