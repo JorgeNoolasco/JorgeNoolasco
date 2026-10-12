@@ -132,17 +132,16 @@ Development
 
 <details>
 <summary>Ver estatísticas</summary>
-## 📊 `~/stats`
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=redline111111111111&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41&custom_title=X%27s%20GitHub%20Stats" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=redline111111111111&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" />
-</p>
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeNoolasco&show_icons=true&hide_border=true&theme=github_dark)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeNoolasco&layout=compact&hide_border=true&theme=github_dark)
+
+</details>
+
+---
 
 ## 🐍 `~/contributions`
 
@@ -157,15 +156,6 @@ Development
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
 
-<br>
-
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeNoolasco&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeNoolasco&layout=compact&hide_border=true&theme=github_dark)
-
-</details>
-
----
 
 ###  Development + Security
 
