@@ -7,7 +7,7 @@
 
 **Desenvolvimento Web · Backend · APIs REST · Banco de Dados**
 
-[LinkedIn](https://www.linkedin.com/in/jorge-nolasco-bb2806359/) · [Cybersecurity — @trasheexe](https://github.com/trasheexe) · [Meus repositórios](https://github.com/JorgeNoolasco?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/jorge-nolasco-bb2806359/) ·  [Meus repositórios](https://github.com/JorgeNoolasco?tab=repositories)
 
 </div>
 
@@ -30,7 +30,6 @@ currently_learning:
 
 Sou estudante de **Desenvolvimento de Sistemas** e desenvolvo aplicações web, APIs e soluções com bancos de dados. Busco combinar organização de código, experiências úteis e boas práticas de segurança.
 
-Minha conta dedicada aos estudos de segurança é **[@trasheexe](https://github.com/trasheexe)**.
 
 ---
 
